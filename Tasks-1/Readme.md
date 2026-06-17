@@ -40,7 +40,7 @@ Through this project, I learned:
 * Navigation using anchor links
 * Creating landing page designs
 
-## 📸 Website Sections
+## Website Sections
 
 * Home
 * Features
