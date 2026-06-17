@@ -25,9 +25,9 @@ TechNova is a modern landing page website created using HTML and CSS. This is my
 ## Project Structure
 
 TechNova/
-├── index.html
-├── style.css
-└── README.md
+- index.html
+- style.css
+- README.md
 
 ## Learning Outcomes
 
