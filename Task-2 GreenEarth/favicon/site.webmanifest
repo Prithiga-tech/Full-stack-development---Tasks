@@ -1,0 +1,20 @@
+{
+  "name": "GreenEarth",
+  "short_name": "GreenEarth",
+  "description": "Environmental awareness platform promoting sustainability and eco-friendly living.",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#2d6a4f",
+  "background_color": "#f8faf9",
+  "display": "standalone"
+}
