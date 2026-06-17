@@ -1,77 +1,76 @@
-# GreenEarth
+# 🌍GreenEarth
 
-GreenEarth is a responsive environmental awareness website built using **HTML, CSS, and JavaScript**. The website promotes sustainability, tree plantation, waste management, climate action, and community participation.
+GreenEarth is a responsive environmental awareness website built using **HTML5, CSS3, and JavaScript**. The website focuses on promoting sustainability, tree plantation, waste management, climate action, and community participation.
 
 ## Features
 
-* Responsive design for all devices
-* Modern eco-friendly UI
+* Responsive design for desktop, tablet, and mobile devices
 * Hero section with call-to-action buttons
 * About section with mission statement
-* 6 environmental initiative cards
+* Environmental initiative cards
 * Animated impact statistics
-* Active project showcase
+* Project showcase section
 * Volunteer and subscription form
-* Smooth animations using Animate.css
-* Custom favicon support
+* Smooth animations and modern UI design
 
 ## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
+* CSS Grid
 * Google Fonts
 * Animate.css
-* CSS Grid
 
-## 📂 Project Structure
+## Additional Learning Tools Used
+
+This project was also created using several web development tools that helped improve the design, responsiveness, and user experience while learning front-end development.
+
+* **Google Fonts** – Used for attractive and readable typography.
+* **Animate.css** – Added simple animations without writing complex JavaScript.
+* **Favicon.io** – Generated website favicon icons for different devices and browsers.
+* **CSS Grid Generator** – Helped create responsive grid layouts for sections like Features, Statistics, and Projects.
+* **VS Code** – Main code editor used for development.
+* **Live Server Extension** – Used to preview the website in real time during development.
+
+These tools were used as additional learning resources to make the website development process easier and to understand modern web development practices.
+
+## Project Structure
 
 GreenEarth/
-- ├── index.html
-- ├── css/
-- │ └── styles.css
-- ├── js/
-- │ └── main.js
-- ├── favicon/
-- └── generate_favicons.ps1
-
-## Design Highlights
-
-* Green color palette inspired by nature
-* Glassmorphism navigation bar
-* Responsive CSS Grid layouts
-* Hover effects and smooth transitions
-* Animated counters and scroll effects
-
-## Responsive Breakpoints
-
-* Desktop: 1024px and above
-* Tablet: 768px
-* Mobile: 480px
+├── index.html
+├── css/
+│ └── styles.css
+├── js/
+│ └── main.js
+├── favicon/
+└── generate_favicons.ps1
 
 ## Learning Outcomes
 
-This project helped me learn:
+Through this project, I learned:
 
-* Semantic HTML structure
-* CSS Grid layouts
+* Semantic HTML5 structure
+* CSS styling and layouts
 * Responsive web design
+* CSS Grid implementation
 * JavaScript DOM manipulation
 * Website animations
-* Modern UI/UX principles
+* Modern UI/UX design concepts
+* Using development tools to improve productivity
 
 ## How to Run
 
-1. Download or clone the project.
+1. Download or clone the repository.
 2. Open the project folder in VS Code.
-3. Open `index.html` in a browser or use Live Server.
+3. Open `index.html` using Live Server or any web browser.
 
 ## Author
 
-**Prithiga-tech**
+**Prithiga-Tech**
 
-A front-end web development project focused on environmental awareness and sustainable living.
+This project was developed as part of front-end web development learning and demonstrates the use of modern web technologies and supporting development tools.
 
 ## License
 
-This project is created for educational and learning purposes.
+This project is created for educational and learning purposes only.
