@@ -38,13 +38,13 @@ These tools were used as additional learning resources to make the website devel
 ## Project Structure
 
 GreenEarth/
-├── index.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── main.js
-├── favicon/
-└── generate_favicons.ps1
+- ├── index.html
+- ├── css/
+- │ └── styles.css
+- ├── js/
+- │ └── main.js
+- ├── favicon/
+- └── generate_favicons.ps1
 
 ## Learning Outcomes
 
