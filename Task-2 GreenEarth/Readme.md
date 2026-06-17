@@ -1,4 +1,4 @@
-# 🌍GreenEarth
+# 🌍 GreenEarth
 
 GreenEarth is a responsive environmental awareness website built using **HTML5, CSS3, and JavaScript**. The website focuses on promoting sustainability, tree plantation, waste management, climate action, and community participation.
 
