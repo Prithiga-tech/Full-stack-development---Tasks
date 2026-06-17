@@ -1,0 +1,144 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 50px;
+    background:black;
+    position:fixed;
+    width:100%;
+}
+
+.navbar > .logo{
+    color:white;
+    font-size:28px;
+    font-weight:bold;
+}
+
+.navbar > .menu{
+    display:flex;
+    list-style:none;
+    gap:20px;
+}
+
+.menu > li > a{
+    color:white;
+    text-decoration:none;
+}
+
+.hero{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    background-image:
+    linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url("https://images.unsplash.com/photo-1498050108023-c5249f4df085");
+    background-size:cover;
+    background-position:center;
+}
+
+.hero > .hero-content{
+    color:white;
+}
+
+.hero-content > h1{
+    font-size:50px;
+    margin-bottom:20px;
+}
+
+.hero-content > p{
+    margin-bottom:20px;
+}
+
+.hero-content > .btn{
+    text-decoration:none;
+    background:lightgreen;
+    color:black;
+    padding:10px 20px;
+    border-radius:5px;
+}
+
+.features{
+    height:100vh;
+    padding:100px 40px;
+    text-align:center;
+}
+
+.features > .row{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    margin-top:30px;
+}
+
+.row > .card{
+    width:300px;
+    height: 150px;
+    padding:20px;
+    border:1px solid gray;
+    border-radius:10px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card>h3{
+    margin-bottom:20px;
+}
+
+.about{
+    min-height:100vh;
+    padding:100px 40px;
+    text-align:center;
+    background:#f4f4f4;
+}
+
+.about > p{
+    max-width: 800px;
+    margin: 15px auto;
+    text-align: center;
+    line-height: 3;
+    font-size: 17px;
+    padding: 0 20px;
+}
+
+.contact{
+    min-height:100vh;
+    padding:100px 40px;
+    text-align:center;
+}
+
+.contact > h2{
+    margin-bottom: 30px;
+}
+
+.contact > form{
+    width:400px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    gap: 20px;
+}
+
+form > input,
+form > textarea{
+    padding:10px;
+}
+
+form > button{
+    padding:10px;
+    background:lightgreen;
+    border:none;
+    margin-top: 30px;
+    border-radius: 5px;
+}
